@@ -1,5 +1,5 @@
 'use strict';
-
+//Commentaire
 const {join} = require('path');
 
 const PACKAGE_PATHS = [
